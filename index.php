@@ -1,5 +1,5 @@
 <?php 
-
+/*new comm*/
 if (isset($_POST['add']))
 {
     include ($_SERVER['DOCUMENT_ROOT'].'/test/db_function.php');
